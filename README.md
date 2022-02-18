@@ -2,4 +2,4 @@
 
 Repo where only one character at a time is allowed to be changed.
 
-Pull requests are welcome but mu
+Pull requests are welcome but mus
